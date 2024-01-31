@@ -1,0 +1,14 @@
+/Users/lakeikolomalu/lab-1-5-console-commands-fanakekota/bin/Debug/net7.0/lab-1-5-console-commands-fanakekota
+/Users/lakeikolomalu/lab-1-5-console-commands-fanakekota/bin/Debug/net7.0/lab-1-5-console-commands-fanakekota.deps.json
+/Users/lakeikolomalu/lab-1-5-console-commands-fanakekota/bin/Debug/net7.0/lab-1-5-console-commands-fanakekota.runtimeconfig.json
+/Users/lakeikolomalu/lab-1-5-console-commands-fanakekota/bin/Debug/net7.0/lab-1-5-console-commands-fanakekota.dll
+/Users/lakeikolomalu/lab-1-5-console-commands-fanakekota/bin/Debug/net7.0/lab-1-5-console-commands-fanakekota.pdb
+/Users/lakeikolomalu/lab-1-5-console-commands-fanakekota/obj/Debug/net7.0/lab-1-5-console-commands-fanakekota.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lakeikolomalu/lab-1-5-console-commands-fanakekota/obj/Debug/net7.0/lab-1-5-console-commands-fanakekota.AssemblyInfoInputs.cache
+/Users/lakeikolomalu/lab-1-5-console-commands-fanakekota/obj/Debug/net7.0/lab-1-5-console-commands-fanakekota.AssemblyInfo.cs
+/Users/lakeikolomalu/lab-1-5-console-commands-fanakekota/obj/Debug/net7.0/lab-1-5-console-commands-fanakekota.csproj.CoreCompileInputs.cache
+/Users/lakeikolomalu/lab-1-5-console-commands-fanakekota/obj/Debug/net7.0/lab-1-5-console-commands-fanakekota.dll
+/Users/lakeikolomalu/lab-1-5-console-commands-fanakekota/obj/Debug/net7.0/refint/lab-1-5-console-commands-fanakekota.dll
+/Users/lakeikolomalu/lab-1-5-console-commands-fanakekota/obj/Debug/net7.0/lab-1-5-console-commands-fanakekota.pdb
+/Users/lakeikolomalu/lab-1-5-console-commands-fanakekota/obj/Debug/net7.0/lab-1-5-console-commands-fanakekota.genruntimeconfig.cache
+/Users/lakeikolomalu/lab-1-5-console-commands-fanakekota/obj/Debug/net7.0/ref/lab-1-5-console-commands-fanakekota.dll
